@@ -4,7 +4,7 @@
  *--------------------------------------------------------------------------------------------*/
 'use strict';
 
-import { createScanner } from './scanner';
+import { createScanner } from './scanner.ts';
 import {
 	JSONPath,
 	JSONVisitor,
@@ -17,7 +17,7 @@ import {
 	ScanError,
 	Segment,
 	SyntaxKind
-} from '../main';
+} from '../main.ts';
 
 namespace ParseOptions {
 	export const DEFAULT = {
