@@ -4,10 +4,10 @@
  *--------------------------------------------------------------------------------------------*/
 'use strict';
 
-import * as formatter from './impl/format';
-import * as edit from './impl/edit';
-import * as scanner from './impl/scanner';
-import * as parser from './impl/parser';
+import * as formatter from './impl/format.ts';
+import * as edit from './impl/edit.ts';
+import * as scanner from './impl/scanner.ts';
+import * as parser from './impl/parser.ts';
 
 /**
  * Creates a JSON scanner on the given text.
