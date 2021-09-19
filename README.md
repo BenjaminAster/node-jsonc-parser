@@ -1,6 +1,12 @@
 # jsonc-parser
 Scanner and parser for JSON with comments.
 
+---
+
+### This fork exists only for [this](https://deno.land/x/jsonc@v4.0.0) [third party Deno module](https://deno.land/x)!
+
+---
+
 [![npm Package](https://img.shields.io/npm/v/jsonc-parser.svg?style=flat-square)](https://www.npmjs.org/package/jsonc-parser)
 [![NPM Downloads](https://img.shields.io/npm/dm/jsonc-parser.svg)](https://npmjs.org/package/jsonc-parser)
 [![Build Status](https://travis-ci.org/Microsoft/node-jsonc-parser.svg?branch=master)](https://travis-ci.org/Microsoft/node-jsonc-parser)
