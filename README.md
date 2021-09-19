@@ -3,7 +3,7 @@ Scanner and parser for JSON with comments.
 
 ---
 
-### This fork exists only for the [third party Deno module](https://deno.land/x) "[jsonc](https://deno.land/x/jsonc@v4.0.0)"! View [the original repository from Microsoft](https://github.com/microsoft/node-jsonc-parser) if you are interested in the node-jsonc-parser itself.
+### This fork exists only for the [third party Deno module](https://deno.land/x) "[jsonc](https://deno.land/x/jsonc)"! View [the original repository from Microsoft](https://github.com/microsoft/node-jsonc-parser) if you are interested in the node-jsonc-parser itself.
 
 ---
 
